@@ -39,7 +39,7 @@ You should get the output:
 > usage: ./darknet <function>
 
 
-## Liens utiles
+## Useful links
    - https://pjreddie.com/darknet/install/#cuda 
    - https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/
   
