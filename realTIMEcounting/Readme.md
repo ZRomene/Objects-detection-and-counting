@@ -70,6 +70,7 @@ the list indexes contains the index of each object detected , the legnth of inde
 ```bash
 indexes = cv2.dnn.NMSBoxes(boxes,confidences,0.4,0.6)
 ```
+To understand more hte *NMSBOXES* function , visit this ![link](https://stackoverflow.com/questions/66701910/why-nmsboxes-is-not-eleminating-multiple-bounding-boxes) 
 
 ## STEP3 : Counting objects
 For counting objets , we created a new vector without repteated  values .
