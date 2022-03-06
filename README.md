@@ -6,7 +6,9 @@ For this matter we need to install some librairies on our Ubuntu 20.04  which ar
 - OpenCV
 - YOLOv3 
 
-![image](python3.png) ![image](OpenCV.png) ![image](yolo.png)
+![image](python3.png) 
+![image](OpenCV.png)
+![image](yolo.png)
 
 
 ## Installation 
