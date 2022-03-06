@@ -62,7 +62,10 @@ In YOLO v3 trained on COCO, B = 3 and C = 80, so the kernel size is 1 x 1 x 255.
 
 So , for each object , the algorithm draws three boxes, and for each box there is a prediction value.
 
-At the end , the algorithm chooses the box with the highest prediction value for each objecta
+At the end , the algorithm chooses the box with the highest prediction value for each object.
+
+   
+   ![image](Example.png)
 
 
 
@@ -70,6 +73,9 @@ At the end , the algorithm chooses the box with the highest prediction value for
 
 
 ## Useful links
+   - https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b
+   - https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
+   - https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/
    - https://pjreddie.com/darknet/install/#cuda 
    - https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/
   
