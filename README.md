@@ -1,11 +1,5 @@
 # IOT project
 
-## Team members
-- Baaziz Elmehdi baazizelmehdi@gmail.com
-- Sakis Nour nourelhouda.sakis@esprit.tn
-- Romene Zaynab zaynab.romane@esprit.tn
-
-
 ## Objects Detection and counting 
 This IOT project consist on detecting and counting objects in real time using the webcam.
 For this matter we need to install some librairies on our Ubuntu 20.04  which are: 
@@ -78,6 +72,11 @@ At the end , the algorithm chooses the box with the highest prediction value for
 
 
 
+   
+## Team members
+- Baaziz Elmehdi baazizelmehdi@gmail.com
+- Sakis Nour nourelhouda.sakis@esprit.tn
+- Romene Zaynab zaynab.romane@esprit.tn
 
 
 
