@@ -35,7 +35,7 @@ __0.Requirements__
     
 __1. Download the code to your computer.__
     
-    git clone https://github.com/yehengchen/Object-Detection-and-Tracking.git
+    git clone https://github.com/ZRomene/Objects-detection-and-counting.git
     
 __2. Download [[yolov3.weights]](https://pjreddie.com/media/files/yolov3.weights)__ and place it in `deep_sort_yolov3/model_data/`
 
