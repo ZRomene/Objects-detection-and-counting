@@ -39,15 +39,15 @@ To make sure that everything is compiled correctly, try running this
 You should get the output:
 > usage: ./darknet <function>
    
-   # YOLO algorithm 
+   ## YOLO algorithm 
 
 YOLO — You Only Look Once — is an extremely fast multi object detection algorithm which uses convolutional neural network (CNN) to detect and identify objects.
 
-## YOLO V3
+### YOLO V3
 YOLO v3 uses a variant of Darknet, which originally has 53 layer network trained on Imagenet. For the task of detection, 53 more layers are stacked onto it, giving us a 106 layer fully convolutional underlying architecture for YOLO v3.
 
 ![image](Yolo_Layers.png)
-## Detection at three Scales 
+### Detection at three Scales 
 The most salient feature of v3 is that it makes detections at three different scales. 
 
 the detection is done by applying 1 x 1 detection kernels on feature maps of three different sizes at three different places in the network :
