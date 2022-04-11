@@ -76,7 +76,7 @@ At the end , the algorithm chooses the box with the highest prediction value for
 ## Team members
 - Baaziz Elmehdi baazizelmehdi@gmail.com
 - Sakis Nour nourelhouda.sakis@esprit.tn
-- Romene Zaynab zaynab.romane@esprit.tn
+- Romene Zaynab zaynab.romene@gmail.com
 
 
 
